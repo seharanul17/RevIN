@@ -17,6 +17,6 @@ ETRI &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 KAIST AI
 
 
-<img src="./figs/fig1.gif" width="500px" height="250px">
+<img src="./figs/fig1.gif" width="1000px" height="500px">
 
 

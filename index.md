@@ -60,20 +60,20 @@ of RevIN on obvious non-stationary time series.
 
 RevIN
 consistently outperforms all three baselines, Informer, N-BEATS, and SCINet, by a large margin, showing robust performance against the prediction length.
-<img src="./figs/table1.PNG" width="612px" height="406px"></img>
+<img src="./figs/table1.PNG" width="918px" height="609px"></img>
 
 
 
-<img src="./figs/table4.PNG" width="612px" height="250px"></img>
+<img src="./figs/table4.PNG" width="918px" height="375px"></img>
 
 
 RevIN shows outstanding performance compared to classical and state-of-the-art normalization methods normalization methods,
-<img src="./figs/table3.PNG" width="561px" height="221px"></img>
+<img src="./figs/table3.PNG" width="673px" height="265px"></img>
 
 
 In time series, a domain can be a location of a sensor where
 the data is collected. Here, RevIN successfully solves the distribution shift problem by alleviating data distribution discrepancy between different domains, leading to better generalization performance in the cross-domain time-series forecasting task.
-<img src="./figs/table5.PNG" width="610px" height="151px"></img>
+<img src="./figs/table5.PNG" width="915px" height="226px"></img>
 
 
 Additional multivariate time-series forecasting results.

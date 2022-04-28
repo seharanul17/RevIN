@@ -1,6 +1,6 @@
-# <center> RevIN </center> 
-## <center> Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift </center>
-## <center>ICLR 2022</center>
+<div><h1 align="center">  RevIN </h1></div>
+<div><h3 align="center">Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift</h3></div>
+<div><h3 align="center">ICLR 2022</h3></div>
 
 
 <center>
@@ -27,17 +27,16 @@ KAIST AI
 
 
 
-<table  style="background:blue"><tr></tr><tr>
+<table><tr></tr><tr>
 <td> <a href="https://openreview.net/forum?id=cGDAkQo1C0p"><img src="icons/paper.png" width="50px"></a></td>
 <td>
 <td> <a href="https://github.com/ts-kim/revin/"><img src="icons/github.png" width="50px"></a> </td>
-</tr></table>
 
-<img src="./figs/fig1.gif" width="1000px" height="500px"></img>
+<img src="./figs/fig1.gif" width="5000px" height="2500px">
 
 
 # Poster
-<img src="./figs/RevIN_Poster_ICLR_2O22.jpg" width="1024px" height="576px"></img>
+<img src="./figs/RevIN_Poster_ICLR_2O22.jpg" width="5000px" height="2500px">
 
 
 # Abstract
@@ -49,37 +48,49 @@ Statistical properties such as mean and variance often change over time in time 
 RevIN can alleviate the distribution discrepancy problem by removing
 non-stationary information in the input layer and then restoring it in the output layer. The
 analysis is conducted on the ETT and ECL datasets using SCINet (Liu et al., 2021) as the baseline.
-<img src="./figs/fig3.PNG" width="1216px" height="610px"></img>
+
+<img src="./figs/fig3.PNG" width="5000px" height="2500px">
 
 
 These are prediction results on three variables in the Nasdaq data,
 Close, DTB6, and DE1, to verify the effectiveness
 of RevIN on obvious non-stationary time series.
-<img src="./figs/fig6.PNG" width="1053px" height="874px"></img>
+
+<img src="./figs/fig6.PNG" width="5000px" height="2500px">
 
 
 RevIN
-consistently outperforms all three baselines, Informer, N-BEATS, and SCINet, by a large margin, showing robust performance against the prediction length.
-<img src="./figs/table1.PNG" width="918px" height="609px"></img>
+consistently outperforms all three baselines, Informer, N-BEATS, and SCINet, by a large margin, achieving state-of-the-art performance. RevIN shows robust performance against the prediction length.
+
+<img src="./figs/table1.PNG" width="5000px" height="2500px">
 
 
 
-<img src="./figs/table4.PNG" width="918px" height="375px"></img>
+RevIN significantly improves the forecasting performance of the baselines on
+on additional real-world datasets.
+
+<img src="./figs/table4.PNG" width="5000px" height="2500px">
+
 
 
 RevIN shows outstanding performance compared to classical and state-of-the-art normalization methods normalization methods,
-<img src="./figs/table3.PNG" width="673px" height="265px"></img>
+
+<img src="./figs/table3.PNG" width="5000px" height="2500px">
+
 
 
 In time series, a domain can be a location of a sensor where
 the data is collected. Here, RevIN successfully solves the distribution shift problem by alleviating data distribution discrepancy between different domains, leading to better generalization performance in the cross-domain time-series forecasting task.
-<img src="./figs/table5.PNG" width="915px" height="226px"></img>
+
+<img src="./figs/table5.PNG" width="5000px" height="2500px">
+
 
 
 Additional multivariate time-series forecasting results.
  
 
-<img src="./figs/fig9.jpg" width="948px" height="1428px"></img>
+<img src="./figs/fig9.jpg" width="5000px" height="5000px">
+
 
 
 # Citation
@@ -94,3 +105,4 @@ Additional multivariate time-series forecasting results.
     url={https://openreview.net/forum?id=cGDAkQo1C0p}
 }
 ```
+

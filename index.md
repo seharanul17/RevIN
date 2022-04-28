@@ -25,7 +25,9 @@ KAIST AI
 *Denotes Equal Contribution
 </div>
 
-<div align="center" style="display: flex; flex-direction: row;">
+
+<div style="display: flex; flex-direction: row;">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://openreview.net/forum?id=cGDAkQo1C0p"><img src="icons/paper.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ts-kim/revin/"><img src="icons/github.png" width="50px"></a> 
 </div>
@@ -34,7 +36,7 @@ KAIST AI
 
 
 # Poster
-<img src="./figs/RevIN_Poster_ICLR_2O22.jpg" width="1000px" height="500px">
+<img src="./figs/RevIN_Poster_ICLR_2O22.jpg" width="1000px" height="750px">
 
 
 # Abstract
@@ -55,9 +57,9 @@ These are prediction results on three variables in the Nasdaq data,
 Close, DTB6, and DE1, to verify the effectiveness
 of RevIN on obvious non-stationary time series.
 
-<img src="./figs/fig6.PNG" width="1000px" height="500px">
+<img src="./figs/fig6.PNG" width="1000px" height="800px">
 
-
+<!-- 
 RevIN
 consistently outperforms all three baselines, Informer, N-BEATS, and SCINet, by a large margin, achieving state-of-the-art performance. RevIN shows robust performance against the prediction length.
 
@@ -82,7 +84,7 @@ In time series, a domain can be a location of a sensor where
 the data is collected. Here, RevIN successfully solves the distribution shift problem by alleviating data distribution discrepancy between different domains, leading to better generalization performance in the cross-domain time-series forecasting task.
 
 <img src="./figs/table5.PNG" width="1000px" height="500px">
-
+ -->
 
 
 Additional multivariate time-series forecasting results.

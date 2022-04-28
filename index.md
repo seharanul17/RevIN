@@ -25,11 +25,9 @@ KAIST AI
 *Denotes Equal Contribution
 </div>
 
-<div align="center">
-<div style="display: flex; flex-direction: row;">
+<div align="center" style="display: flex; flex-direction: row;">
 <a href="https://openreview.net/forum?id=cGDAkQo1C0p"><img src="icons/paper.png" width="50px"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ts-kim/revin/"><img src="icons/github.png" width="50px"></a> 
-</div>
 </div>
 
 <img src="./figs/fig1.gif" width="1000px" height="500px">

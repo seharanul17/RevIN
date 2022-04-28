@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: RevIN
+description: Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift

@@ -36,7 +36,7 @@ KAIST AI
 
 
 # Poster
-<img src="./figs/RevIN_Poster_ICLR_2O22.jpg" width="1000px" height="750px">
+<img src="./figs/RevIN_Poster_ICLR_2O22.jpg" width="1000px" height="562px">
 
 
 # Abstract
